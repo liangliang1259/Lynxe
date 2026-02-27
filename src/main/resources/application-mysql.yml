@@ -1,9 +1,9 @@
 spring:
   datasource:
-    url: jdbc:mysql://your-mysql-host:3306/openlynxe_db?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql://115.190.114.159:3306/openlynxe_db?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: your_mysql_username
-    password: your_mysql_password
+    username: root
+    password: Liangzi_12597758
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
     hibernate:
