@@ -22,8 +22,7 @@
     <header class="branding-header">
       <div class="branding-content">
         <div class="branding-logo" @click="handleLogoClick">
-          <img src="/Java-AI.svg" alt="Lynxe" class="java-logo" />
-          <h1>Lynxe</h1>
+          <h1>星启光途</h1>
         </div>
         <div class="branding-actions">
           <LanguageSwitcher />
